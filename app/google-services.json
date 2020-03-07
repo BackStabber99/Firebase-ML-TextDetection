@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "438241462462",
+    "firebase_url": "https://mlkitonline-5519f.firebaseio.com",
+    "project_id": "mlkitonline-5519f",
+    "storage_bucket": "mlkitonline-5519f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438241462462:android:9b14bf3a99e1e90ebe36ef",
+        "android_client_info": {
+          "package_name": "com.mayank.facedetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438241462462-tvu2ucot02vbfd0f8tkoj204mac5rq08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQHQ-uMmiSNpbOHjfc9gxTvbPjBhycm1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438241462462-tvu2ucot02vbfd0f8tkoj204mac5rq08.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438241462462:android:a0c6ae9b7af7dc21be36ef",
+        "android_client_info": {
+          "package_name": "com.mayank.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438241462462-tvu2ucot02vbfd0f8tkoj204mac5rq08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQHQ-uMmiSNpbOHjfc9gxTvbPjBhycm1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438241462462-tvu2ucot02vbfd0f8tkoj204mac5rq08.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
